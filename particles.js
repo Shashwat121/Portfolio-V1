@@ -20,7 +20,7 @@ var pJS = function(tag_id, params){
     },
     particles: {
       number: {
-        value: 60,
+        value: 40,
         density: {
           enable: true,
           value_area: 1000
